@@ -1,0 +1,19 @@
+body {
+  width: 500px;
+  height: 500px;
+  margin: 50px;
+  background-color: black;
+  font-family: 'Fira Code', monospace;
+  font-size: 25px;
+  text-align: center;
+}
+
+div {
+  width: fit-content;
+  height: fit-content;
+  background-color: white;
+}
+span {
+  position: absolute;
+  transform:translate(-50%, -50%);
+}
